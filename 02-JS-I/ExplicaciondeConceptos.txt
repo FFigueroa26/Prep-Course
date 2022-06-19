@@ -1,0 +1,5 @@
+Variables: Es como una cajita donde almacena los datos o algun valor.
+Strings: Son lineas de palabras, caracteres o letras consecutivas.
+Funciones return: Finaliza la funcion y envia un valor para ser devuelto
+Declaraciones If: 
+Booleanas: es una expersion de condicion en este caso verdadero o falso.
